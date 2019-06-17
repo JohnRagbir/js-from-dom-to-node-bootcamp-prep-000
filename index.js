@@ -1,5 +1,2 @@
 // write your code below
-console.log("hello, world!");
-console.log("hiya")
-
-
+console.log('hello, world!');
